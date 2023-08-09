@@ -1,4 +1,4 @@
-name: flask2
+name: flask
 
 dependencies:
   - python=3.11
